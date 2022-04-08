@@ -4,7 +4,7 @@ metadata:
   name: samplemeshapp
 spec:
   hosts:
-    - '*'
+    - samplemeshapp.apps.cluster-z9nwc.z9nwc.sandbox439.opentlc.com
   gateways:
     - mesh-gateway
   http:
